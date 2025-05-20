@@ -5,7 +5,7 @@ By day, I'm a CSE undergrad navigating deadlines. By night, I turn caffeine into
 
 ---
 
-### 🚀 Projects (aka monalisa 🥰)
+### 🚀 Projects (aka my monalisa 🥰)
 
 - 🔗 [![image](https://github.com/user-attachments/assets/f5c277fa-0f62-49ff-92c3-026447c4e170)](https://icebreaker-nine.vercel.app/)  
   *Built IceBreaker to track media, because spreadsheets are so 2009.*  
