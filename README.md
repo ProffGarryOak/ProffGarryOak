@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Adarsh%20Pandey%20👾&section=header&reversal=false&textBg=false&fontAlign=37&descAlign=100&descAlignY=0" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Adarsh%20Pandey%20👾&section=header&reversal=false&textBg=false&fontAlign=37&descAlign=100&descAlignY=0fontColor=e9e1f3" />
 </p>
 
 
