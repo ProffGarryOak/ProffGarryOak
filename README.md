@@ -105,6 +105,7 @@ FastAPI | Pandas | 22 Endpoints | 18K+ Data Points
 
 ![Snake animation](https://github.com/proffgarryoak/proffgarryoak/blob/output/github-contribution-grid-snake.svg)
 
+![Snake dark animation](https://github.com/proffgarryoak/proffgarryoak/blob/output/github-contribution-grid-snake-dark.svg)
 ---
 
 ## 📫 Let's Connect!
